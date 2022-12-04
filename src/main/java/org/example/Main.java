@@ -127,6 +127,7 @@ public class Main
             else if(work==5) break; //종료
 
             else System.out.println("잘못된 입력입니다."); // 1~5 외 입력시 안내문구 출력
+            //test
         }
 
     }
